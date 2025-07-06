@@ -1,5 +1,7 @@
-# Getting Started with Create React App
 
+# UserWave
+🌊 UserWave – Modern React + Redux CRUD App A beautiful and responsive CRUD application built with React, Redux, React Router, and Bootstrap 5. UserWave allows you to add, edit, delete, and list users with a modern UI design inspired by admin dashboards.
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,8 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# UserWave
-🌊 UserWave – Modern React + Redux CRUD App A beautiful and responsive CRUD application built with React, Redux, React Router, and Bootstrap 5. UserWave allows you to add, edit, delete, and list users with a modern UI design inspired by admin dashboards.
